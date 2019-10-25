@@ -152,7 +152,7 @@ public:
 	sf::Texture m_pause1,m_controlZX,m_control12,m_controlud;
 	sf::Sprite m_sprite,m_pause,m_spriteZx,m_sprite12,m_spriteud;
 	Perseus* m_perseus;
-	//Bonus  m_bonus;
+	
 	std::vector<Rock*> m_rock;
 	Maze m_maze;
 	bool drawzx,draw12,drawud;
