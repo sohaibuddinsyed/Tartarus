@@ -19,6 +19,12 @@ Run the *main.cpp* file in order to start the game. Enjoy!
 - You have a total of 3 lives before which you need to collect all the keys.
 - Watch out for the changing controls.
 
+![Capture2](https://user-images.githubusercontent.com/49821723/183305521-5b16df80-3838-4b65-b50b-6488027cb53e.PNG)
+
+![Capture](https://user-images.githubusercontent.com/49821723/183305483-1016a1e1-2b74-4716-a1d4-431f9f4b5024.PNG)
+
 # Publication
+
 On th basis of the game as a POC, I have also published a solution to anti-addiction gaming in IEEE.
 https://ieeexplore.ieee.org/document/9104164
+
